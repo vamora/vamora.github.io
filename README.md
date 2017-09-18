@@ -1,5 +1,5 @@
 # Vanessa Mora Mendez
 
-## SJSU | Art Student 
+### Student | SJSU 
 
 This is a *README* file for my repositort. It is written using **Markdown**. 
