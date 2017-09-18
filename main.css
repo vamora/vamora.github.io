@@ -1,0 +1,14 @@
+body {
+  background-color: #2b2b2b;
+ }
+h1 {
+  color: #ff008d;
+  text-align: center;
+  font: italic 200% courier;
+ }
+ 
+ p {
+  color: #33a8ff;
+  text-align: right;
+  border: 3px dotted #ff008d;
+ }
