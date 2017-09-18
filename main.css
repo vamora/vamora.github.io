@@ -8,7 +8,8 @@ h1 {
  }
  
  p {
+  padding: 20px;
   color: #33a8ff;
-  text-align: right;
+  text-align: center;
   border: 3px dotted #ff008d;
  }
